@@ -3,7 +3,7 @@
 <h1 align="center">It's Ouarit Hajar</h1>
 <h3 align="center">I'm an engineering student,speciality Network and Systemes. I'm passionate about new technologies DevOps and Cloud Computing.</h3>
 
-- 🔭 I’m currently working on **deploy an application using jenkins CI/CD pipeline**
+- 🔭 I’m currently working on **deploy a MicroService application in ECS aws using jenkins CI/CD pipeline**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
