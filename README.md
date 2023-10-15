@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub profile!</h1>
 <img align="right" alt="Coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103224/devOps-trends.gif">
 <h1 align="center">It's Ouarit Hajar</h1>
-<h3 align="center">I'm an engineering student,speciality Network and Systemes. I'm passionate about new technologies DevOps and Cloud Computing.</h3>
+<h3 align="center">It engineering student,DevOps & Cloud Computing.</h3>
 
 - 🔭 I’m currently working on **deploy a MicroService application in ECS aws using jenkins CI/CD pipeline**
 
